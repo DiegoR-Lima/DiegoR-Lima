@@ -15,4 +15,4 @@
 ## Desing
 ![Desing](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-> Apaixonado por tecnologia e sempre aprendendo. Em busca da excelência em TI!
+> Apaixonado por tecnologia e sempre aprendendo.
